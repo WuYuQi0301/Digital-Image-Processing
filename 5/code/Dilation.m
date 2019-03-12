@@ -1,0 +1,1 @@
+function[result] =  Dilation(, mask, core)
